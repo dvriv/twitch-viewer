@@ -1,1 +1,1 @@
-This project is a Wikipedia Viewer made for learning purposes using React and Redux.
+This project is a Twitch TV Viewer made for learning purposes using React and Redux.
